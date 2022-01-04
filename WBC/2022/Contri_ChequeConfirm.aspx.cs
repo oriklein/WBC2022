@@ -147,7 +147,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             {
                 Desc += "  <p class=\"large\">If applicable, you will receive an email from the Women's Bond Club to collect your payment information.  </p>";
                 Desc += " <p class=\"large\">Each corporate membership in the Women's Bond Club entitles you to an ad in the printed journal and premium exposure in the slideshow during the Merit Award Dinner.</p>";
-                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos and ads must be submitted by Wednesday, April 1.</p>";
+                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos and ads must be submitted by Friday, April 1.</p>";
                 Desc += " <p class=\"large\" style=\"font-weight: bold;\">The ad and logo specs are as follows:</p>";
                 Desc += " <ul style=\"font-weight: bold;\"><li>Dimensions of the ad should be 7\" W x 5\" H</li>";
                 Desc += "  <li>All ads should be black & white/grayscale</li>";
@@ -159,7 +159,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             {
                 Desc += " <p class=\"large\">You will receive an email from the Women's Bond Club to collect your payment information.  </p>";
                 Desc += " <p class=\"large\">With your table purchase, your company logo will appear in the printed journal and in the slideshow during the Merit Award Dinner.  </p>";
-                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos must be submitted by Wednesday, April 1.</p>";
+                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos must be submitted by Friday, April 1.</p>";
                 Desc += " <p class=\"large\" style=\"font-weight: bold;\">The logo specs are as follows:</p>";
                 Desc += " <ul style=\"font-weight: bold;\">";
                 Desc += "  <li>Corporate logo in color as a high-resolution TIFF, JPEG, or EPS.</li></ul>";
@@ -169,7 +169,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             {
                 Desc += " <p class=\"large\">You will receive an email from the Women's Bond Club to collect your payment information.  </p>";
                 Desc += " <p class=\"large\">With your commitment, you are entitled to an ad in the printed journal and premium exposure in the slideshow during the Merit Award Dinner.  </p>";
-                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos and ads must be submitted by Wednesday, April 1.</p>";
+                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold;\">All logos and ads must be submitted by Friday, April 1.</p>";
                 Desc += " <p style=\"font-weight: bold;\">The ad and logo specs are as follows:</p>";
                 Desc += " <ul style=\"font-weight: bold;\"><li>Dimensions of the ad should be 7\" W x 5\" H</li>";
                 Desc += "  <li>All ads should be black & white/grayscale</li>";
@@ -191,7 +191,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             {
                 Desc += " <p class=\"large\">You will receive an email from the Women's Bond Club to collect your payment information.  </p>";
                 Desc += " <p class=\"large\">With your commitment, you are entitled to an ad in the printed journal.  </p>";
-                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold\">All logos and ads must be submitted by Wednesday, April 1.</p>";
+                Desc += " <p class=\"large\" style=\"text-decoration: underline;font-weight: bold\">All logos and ads must be submitted by Friday, April 1.</p>";
                 Desc += " <p style=\"font-weight: bold;>The ad and logo specs are as follows:</p>";
                 Desc += " <ul style=\"font-weight: bold;><li>Dimensions of the ad should be 7\" W x 5\" H</li>";
                 Desc += "  <li>All ads should be black & white/grayscale</li>";
@@ -337,7 +337,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
                 html = html + "Each corporate membership in the Women's Bond Club entitles you to an ad in the printed journal and premium exposure in the slideshow during the Merit Award Dinner. ";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px;font-weight: bold;    line-height: 1.5em; text-decoration:underline;   margin: 10px 0 0;\">";
-                html = html + "All logos and ads must be submitted by Wednesday, April 1.";
+                html = html + "All logos and ads must be submitted by Friday, April 1.";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px;font-weight: bold;    line-height: 1.5em;    margin: 10px 0 0;\">";
                 html = html + "The ad and logo specs are as follows:";
@@ -363,7 +363,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
                 html = html + "With your table purchase, your company logo will appear in the printed journal and in the slideshow during the Merit Award Dinner.   ";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px; font-weight: bold;   line-height: 1.5em; text-decoration:underline;   margin: 10px 0 0;\">";
-                html = html + "All logos must be submitted by Wednesday, April 1.";
+                html = html + "All logos must be submitted by Friday, April 1.";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px; font-weight: bold;   line-height: 1.5em;    margin: 10px 0 0;\">";
                 html = html + "The logo specs are as follows:";
@@ -386,7 +386,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
                 html = html + "With your commitment, you are entitled to an ad in the printed journal and premium exposure in the slideshow during the Merit Award Dinner.  ";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px;font-weight: bold;line-height: 1.5em; text-decoration:underline;   margin: 10px 0 0;\">";
-                html = html + "All logos and ads must be submitted by Wednesday, April 1.";
+                html = html + "All logos and ads must be submitted by Friday, April 1.";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px;font-weight: bold;line-height: 1.5em;    margin: 10px 0 0;\">";
                 html = html + "The ad and logo specs are as follows:";
@@ -423,7 +423,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
                 html = html + "With your commitment, you are entitled to an ad in the printed journal.    ";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px; font-weight: bold;   line-height: 1.5em; text-decoration:underline;   margin: 10px 0 0;\">";
-                html = html + "All logos and ads must be submitted by Wednesday, April 1.";
+                html = html + "All logos and ads must be submitted by Friday, April 1.";
                 html = html + "</p>";
                 html = html + "<p style=\"font-size: 12px;font-weight: bold; line-height: 1.5em;    margin: 10px 0 0;\">";
                 html = html + "The ad and logo specs are as follows:";

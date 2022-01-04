@@ -27,8 +27,8 @@
                     <h3>Event Details</h3>
                     <hr class="style-two">
                     <p class="large">
-                        <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %>nd, <%=EventDetails.EventYear %><br />
-                        6:00pm Cocktails | 7:00pm - 10:00pm Dinner
+                        <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %> <%=EventDetails.EventYear %><br />
+                        Starting at 6:00 PM
                         <br />
                         Business Attire<br />
                         American Museum of Natural History<br />
@@ -40,8 +40,8 @@
 
                     <p class="large">Feel free to contact me if you have any questions.</p>
                     <p class="large">Thanks and we look forward to seeing you in April!</p>
-                    <p class="large">Cynthia</p>
-                    <p class="large">646-336-6800 EXT 106</p>
+                    <p class="large">Lily</p>
+                    <p class="large">617-780-2556</p>
 
 
 
