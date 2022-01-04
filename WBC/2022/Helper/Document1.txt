@@ -1,0 +1,162 @@
+
+<html>
+<head>
+	<title>Center for Non-Profit Success</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">	
+	<link rel="stylesheet" type="text/css" href="../themes/style.css">
+</head>
+<body bgcolor="#EFEFEF">
+<table cellspacing="0" cellpadding="0" width="770px" border="0" bgcolor="#EFEFEF" align="center" id="Bo_Header">
+<tr>
+	<td colspan="4">
+	<table id="nav" cellspacing="0" cellpadding="0" width="770px" border="0" bgcolor="#b0d03f">
+	<tbody>
+		<tr><td><a href="http://www.unifusion.com/dev/ivor/default.asp"><img height="78" alt="" src="../media/files/logo.gif" width="141" border="0"></a></td></tr>
+	</tbody>
+	</table>
+	</td>
+</tr>
+<tr><td height="15" bgcolor="#EFEFEF" colspan="4" class="bodytxt" align="right">Welcome Admin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 10,2006</td></tr>
+<tr>
+	<td colspan="4">
+	<table align="center" border="0" width="100%" cellspacing="0" cellpadding="0" height="100%" bgcolor="#FFFFFF">
+	<tr>
+		<td valign="top">
+		<table width="100%" border="0" cellpadding="2" cellspacing="2" class="menutablebordermenu">
+<tr>
+	<td bgcolor="#EFEFEF" class="A2" colspan=2 height="20"> Menu</td>
+</tr>
+<tr onMouseOver="this.bgColor='#F3F3F3';" onMouseOut="this.bgColor='#EEEEEE';" onClick="location.href='home.aspx';" style="cursor:pointer;">
+	<td align="right" valign="middle" width="10">
+		<table border="0" cellpadding="0" cellspacing="0" width="5" height="5" bgcolor="#BBBBBB">
+			<tr><td width="5" height="5"><img src="../images/spacer.gif" width="5" height="5" border="0" alt=""></td></tr>
+		</table>
+	</td>
+	<td><a style="color:#BBBBBB;font-size:11px;text-decoration:none;font-family:verdana;" href="home.aspx">Home</a></td>
+</tr>
+<tr onMouseOver="this.bgColor='#F3F3F3';" onMouseOut="this.bgColor='#FFFFFF';" onClick="location.href='mentorapproval.aspx';" style="cursor:pointer;">
+	<td align="right" valign="middle" width="10">
+		<table border="0" cellpadding="0" cellspacing="0" width="5" height="5" bgcolor="#BBBBBB">
+			<tr><td width="5" height="5"><img src="../images/spacer.gif" width="5" height="5" border="0" alt=""></td></tr>
+		</table>
+	</td>
+	<td nowrap><a style="color:#BBBBBB;font-size:11px;text-decoration:none;font-family:verdana;" href="mentorapproval.aspx">Mentor Approval</a></td>
+</tr>
+
+<tr onMouseOver="this.bgColor='#F3F3F3';" onMouseOut="this.bgColor='#FFFFFF';" onClick="location.href='casestudies.aspx';" style="cursor:pointer;font-family:verdana;">
+	<td align="right" valign="middle" width="10">
+		<table border="0" cellpadding="0" cellspacing="0" width="5" height="5" bgcolor="#BBBBBB">
+			<tr><td width="5" height="5"><img src="../Media/images/spacer.gif" width="5" height="5" border="0" alt=""></td></tr>
+		</table>
+	</td>
+	<td><a style="color:#BBBBBB;font-size:11px;text-decoration:none;" href="casestudies.aspx">Case study</a></td>
+</tr>
+<tr onMouseOver="this.bgColor='#F3F3F3';" onMouseOut="this.bgColor='#FFFFFF';" onClick="location.href='NewsLetter.aspx';" style="cursor:pointer;font-family:verdana;">
+	<td align="right" valign="middle" width="10">
+		<table border="0" cellpadding="0" cellspacing="0" width="5" height="5" bgcolor="#BBBBBB">
+			<tr><td width="5" height="5"><img src="../Media/images/spacer.gif" width="5" height="5" border="0" alt=""></td></tr>
+		</table>
+	</td>
+	<td><a style="color:#BBBBBB;font-size:11px;text-decoration:none;" href="NewsLetter.aspx">NewsLetter</a></td>
+</tr>
+
+<tr onMouseOver="this.bgColor='#F3F3F3';" onMouseOut="this.bgColor='#FFFFFF';" onClick="location.href='Logout.aspx';" style="cursor:pointer;font-family:verdana;">
+	<td align="right" valign="middle" width="10">
+		<table border="0" cellpadding="0" cellspacing="0" width="5" height="5" bgcolor="#BBBBBB">
+			<tr><td width="5" height="5"><img src="../Media/images/spacer.gif" width="5" height="5" border="0" alt=""></td></tr>
+		</table>
+	</td>
+	<td><a style="color:#BBBBBB;font-size:11px;text-decoration:none;" href="Logout.aspx">Log Out</a></td>
+</tr>
+</table> </td>
+ 		<td  width="642px" valign="top" colspan="3">
+<script type="text/javascript" language="Javascript" src="../helper/FormValidator.js"></script>
+<form name="aspnetForm" method="post" action="NewsLetter.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA2ODkzMzM5Mw9kFgJmD2QWAgIBD2QWAgIBD2QWBgIBDw8WAh4HVmlzaWJsZWhkFgQCBw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUKQ2F0ZWdvcnlJRB4NRGF0YVRleHRGaWVsZAUMQ2F0ZWdvcnlUZXh0HgtfIURhdGFCb3VuZGdkEBUMDVBsZWFzZSBTZWxlY3QRQm9hcmQgRGV2ZWxvcG1lbnQZT3JnYW5pemF0aW9uYWwgVHJhbnNpdGlvbhVFeGVjdXRpdmUgVHJhbnNpdGlvbnMbRnVuZHJhaXNpbmcgJiBHcmFudCBXcml0aW5nD0h1bWFuIFJlc291cmNlcxRPcGVyYXRpb25hbCBQbGFubmluZxNTdHJhdGVnaWMgQWxsaWFuY2VzElN0cmF0ZWdpYyBQbGFubmluZxRWb2x1bnRlZXIgTWFuYWdlbWVudBVPdGhlciBOb25wcm9maXQgTmVlZHMZQ29tbXVuaWNhdGlvbiAmIE1hcmtldGluZxUMAzk5OQExATIBMwE0ATUBNgE3ATgBOQIxMAIxMRQrAwxnZ2dnZ2dnZ2dnZ2cWAWZkAhEPPCsACwEADxYKHgtfIUl0ZW1Db3VudAIPHghEYXRhS2V5cxYPAgECAgIDAgQCIQIiAicCNQI4AioCIAIrAiwCNgI3HhBDdXJyZW50UGFnZUluZGV4Zh4JUGFnZUNvdW50AgEeFV8hRGF0YVNvdXJjZUl0ZW1Db3VudAIPZBYCZg9kFh4CAg9kFgpmD2QWAgIBDw8WAh4EVGV4dAUBMWRkAgEPZBYCAgEPDxYCHwkFCjAyLzA2LzIwMDZkZAICDw8WAh8JBRFCb2FyZCBEZXZlbG9wbWVudGRkAgMPDxYCHwkFBnRvcGljIGRkAgQPZBYCAgEPDxYCHg9Db21tYW5kQXJndW1lbnQFATFkZAIDD2QWCmYPZBYCAgEPDxYCHwkFATJkZAIBD2QWAgIBDw8WAh8JBQoxMC8xMC8yMDA2ZGQCAg8PFgIfCQUPSHVtYW4gUmVzb3VyY2VzZGQCAw8PFgIfCQWoAXRvcGljdG9waWN0b3BpY2ZkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmVycnJycnJycnJycnJycnJycnNkZmZlZWVlZWVlc2Rmc2RnZnNkZnNkZnNkZnNkZiBmIHNk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c2Rhc2RkZAIED2QWAgIBDw8WAh8KBQI1NWRkAgMPDxYCHwBnZBYGAgEPDxYCHwkFATNkZAIDDw8WAh8JBQowMi8wMi8yMDA2ZGQCBQ8QDxYGHwEFCkNhdGVnb3J5SUQfAgUMQ2F0ZWdvcnlUZXh0HwNnZBAVDBVFeGVjdXRpdmUgVHJhbnNpdGlvbnMRQm9hcmQgRGV2ZWxvcG1lbnQZT3JnYW5pemF0aW9uYWwgVHJhbnNpdGlvbhVFeGVjdXRpdmUgVHJhbnNpdGlvbnMbRnVuZHJhaXNpbmcgJiBHcmFudCBXcml0aW5nD0h1bWFuIFJlc291cmNlcxRPcGVyYXRpb25hbCBQbGFubmluZxNTdHJhdGVnaWMgQWxsaWFuY2VzElN0cmF0ZWdpYyBQbGFubmluZxRWb2x1bnRlZXIgTWFuYWdlbWVudBVPdGhlciBOb25wcm9maXQgTmVlZHMZQ29tbXVuaWNhdGlvbiAmIE1hcmtldGluZxUMAzk5OQExATIBMwE0ATUBNgE3ATgBOQIxMAIxMRQrAwxnZ2dnZ2dnZ2dnZ2dkZAIFDw8WAh8AaGQWAgIBDxBkZBYAZGTQyJig6qEWdmugt2ENPNDBsCtRSQ==" />
+</div>
+
+<table align="left" border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+<tr><td align="center" class="FormLabel"><span align="center" style="font-weight: bold">NewsLetter</span></td></tr>
+<tr>
+</tr>
+<tr></tr>
+
+<tr><td>
+
+</td></tr>
+
+	<tr><td>
+	<div id="ctl00_BO_HeaderFooter_pnlEditList">
+	
+  		<table width="98%" cellspacing="0" cellpadding="3" align="center" border="0" class="formtable">
+			<tr><td colspan="3" class="FormLabel" align="center"><span style="font-weight: bold">Edit NewsLetter</span></td></tr>
+			<tr><td class="FormLabel">NewsLetter ID &nbsp;:&nbsp;<span id="ctl00_BO_HeaderFooter_LblREditNewsLetterID" class="contentInput">3</span></td></tr>
+			<tr><td class="FormLabel">NewsLetter Date &nbsp;:&nbsp;<span id="ctl00_BO_HeaderFooter_LblREditNewsLetterDate" class="contentInput">02/02/2006</span></td></tr>
+			
+			<tr>
+				<td class="FormLabel">NewsLetter NonProfitArea</td>
+				<td class="FormLabel"><select name="ctl00$BO_HeaderFooter$SelREditNewsLetterNonProfitArea" id="ctl00_BO_HeaderFooter_SelREditNewsLetterNonProfitArea" class="contentInput" style="width:190px;">
+		<option selected="selected" value="999">Executive Transitions</option>
+		<option value="1">Board Development</option>
+		<option value="2">Organizational Transition</option>
+		<option value="3">Executive Transitions</option>
+		<option value="4">Fundraising &amp; Grant Writing</option>
+		<option value="5">Human Resources</option>
+		<option value="6">Operational Planning</option>
+		<option value="7">Strategic Alliances</option>
+		<option value="8">Strategic Planning</option>
+		<option value="9">Volunteer Management</option>
+		<option value="10">Other Nonprofit Needs</option>
+		<option value="11">Communication &amp; Marketing</option>
+
+	</select></td>				
+			</tr>
+			<tr>
+				<td class="FormLabel">NewsLetter Topic</td>
+			</tr>
+			<tr><td class="FormLabel" colspan="3"><textarea name="ctl00$BO_HeaderFooter$TxtREditNewsLetterTopic" rows="2" cols="72" id="ctl00_BO_HeaderFooter_TxtREditNewsLetterTopic" class="contentInput" style="MARGIN: 0px"></textarea></td></tr>				
+			<tr>
+				<td class="FormLabel">NewsLetter Short Description</td>
+			</tr>
+			<tr><td class="FormLabel" colspan="3"><textarea name="ctl00$BO_HeaderFooter$TxtREditNewsLetterShortDescription" rows="4" cols="72" id="ctl00_BO_HeaderFooter_TxtREditNewsLetterShortDescription" class="contentInput" style="MARGIN: 0px">akjhdfkjhkjfjkhjk</textarea></td></tr>				
+			<tr>
+				<td class="FormLabel">NewsLetter Content</td>
+			</tr>
+			<tr><td class="FormLabel" colspan="3"><textarea name="ctl00$BO_HeaderFooter$TxtREditNewsLetterContent" rows="8" cols="72" id="ctl00_BO_HeaderFooter_TxtREditNewsLetterContent" class="contentInput" style="MARGIN: 0px">NewsLetter Content</textarea></td></tr>				
+            
+            
+            
+			<tr><td class="FormLabel" colspan="3" align="center">
+			<input type="submit" name="ctl00$BO_HeaderFooter$BtnOUpDate" value="UpDate" id="ctl00_BO_HeaderFooter_BtnOUpDate" class="FormLabel" style="FONT-WEIGHT:bold" />&nbsp;&nbsp;&nbsp;
+			<input type="button" id="ctl00$CPHPageContent$BtnOBack" class="FormLabel" name="ctl00$CPHPageContent$BtnOBack" value="Go Back" class="contentInput" style="FONT-WEIGHT:bold" onclick="history.back();" />
+			</td></tr>
+		</table>
+	
+</div>
+	</td></tr>
+
+	<tr><td>
+	
+	</td></tr>
+</table>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEQLls9WmCALIlL/cDQKzts2XBQKyts2XBQKxts2XBQKwts2XBQK3ts2XBQK2ts2XBQK1ts2XBQKkts2XBQKrts2XBQKzto2UBQKztoGUBQLI+4iPDgKIybGnBwLa9JbBDQKdmblHVDPpATQJjvu6RYbIxJQ4VMYLd3g=" />
+</div></form>
+</td>
+ 	</tr>
+ 	</table>
+ 	</td>
+ </tr>
+<tr>
+	<td colspan="4">
+	<table  width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+		<tr><td align="center" class="FormLabel"><a href="http://www.locustsystems.com" target="blank">Powered by Locust System</a></td></tr>
+	</table>
+	</td>	
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,9 @@
+#page #info .pane ul li {
+	cursor: pointer;
+}
+#page #info .pane h3:hover, #page #info .pane h3.infohover {
+	text-decoration: underline;
+}
+#page #info .infodiv {
+	display: none;
+}

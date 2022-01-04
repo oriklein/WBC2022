@@ -1,0 +1,374 @@
+body {
+	background: #e7effd;
+	color: #000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
+#page {
+	margin: 20px auto 0 auto;
+	overflow: hidden;
+	padding: 0 0 40px 0;
+	text-align: left;
+	width: 700px;
+}
+#page a {
+	color: #000;
+}
+#page img {
+	border: 0;
+	display: block;
+}
+#page h1 {
+	color: #6393e8;
+	font-size: 15px;
+	margin: 20px 0 0 0;
+}
+#page p {
+	margin: 20px 0 0 0;
+}
+
+
+ul#step  {
+	list-style-type: none;
+	margin: 0 0 0 70px;
+	overflow: hidden;
+	padding: 0;
+	width: 610px;
+}
+ul#step li {
+	float: left;
+	list-style-type: none;
+	height: 85px;
+	margin: 0;
+	padding: 0;
+	width: 140px;
+}
+ul#step li.stephere {
+	background: transparent url(../images/newimages/stephere.gif) no-repeat 0 100%;
+}
+ul#step li.stepdone {
+	-moz-opacity:0.25;
+	filter:alpha(opacity=25);
+}
+ul#step li img {
+	margin: 10px 0 0 40px;
+	
+}
+ul#step li p {
+	color: #6393e8;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 10px 0 0 0;
+	text-align: center;
+}
+#page .pane {
+	background: #fff url(../images/newimages/pane.gif) no-repeat 0 100%;
+	margin: 0;
+	overflow: hidden;
+	padding: 0 0 20px 0;
+	width: 700px;
+}
+#page .pane h1 {
+	background: transparent url(../images/newimages/paneh1.gif) no-repeat 0 0;
+	border-bottom: 2px solid #e7effd;
+	color: #6393e8;
+	font-size: 15px;
+	line-height: 30px;
+	margin: 0;
+	padding: 20px 20px 10px 20px;
+}
+#page .pane h1 span.number {
+	background: transparent url(../images/newimages/h1number.gif) no-repeat 0 0;
+	float: left;
+	font-size: 20px;
+	margin: 0 20px 0 0;
+	text-align: center;
+	width: 30px;
+	
+}
+#page .pane h2 {
+	font-size: 15px;
+	margin: 20px 20px 0 20px;
+}
+#page .pane h3 {
+	font-size: 14px;
+	margin: 20px 20px 0 20px;
+}
+#page .pane p {
+	margin: 20px 20px 0 20px;
+}
+
+
+#page .pane ul.key {
+	float: right;
+	font-size: 11px;
+	list-style-type: none;
+	margin: 20px 0 0 0;
+	padding: 0 20px 0 0;
+	width: 440px;
+}
+#page .pane ul.key li {
+	float: right;
+	line-height: 15px;
+	list-style-type: none;
+	margin: 0 0 0 10px;
+	padding: 0 0 0 10px;
+}
+#page .pane ul.key li.key1 {
+	border-left: 15px solid #a5c0f2;
+}
+#page .pane ul.key li.key2 {
+	border-left: 15px solid #b0d03f;
+}
+
+
+#page .pane table {
+	font-size: 12px;
+	margin: 20px 0 0 20px;
+	padding: 0;
+	text-align: left;
+}
+#page .pane table.detail {
+	width: 660px;
+}
+#page .pane tr.detail1 td {
+	background: #a5c0f2;
+}
+#page .pane tr.detail2 td {
+	background: #b0d03f;
+}
+#page .pane tr.detail3 td {
+	background: #e5e5e5;
+}
+#page .pane th {
+	background: #fff;
+	padding: 0 10px 10px 10px;
+}
+#page .pane th.detailstring {
+	width: 150px;
+}
+#page .pane th.detailnumeric {
+	width: 60px;
+}
+#page .pane td {
+	border-top: 1px solid #fff;
+	padding: 10px;
+	vertical-align: top;
+}
+#page .pane td a {
+	font-weight: bold;
+	text-decoration: none;
+}
+#page .pane td a:hover {
+	text-decoration: underline;
+}
+#page .pane td .detailsold {
+	color: #c00;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#page .pane table.summary {
+	width: 660px;
+}
+#page .pane table.summary td {
+	border-top: 1px solid #e7effd;
+}
+#page .pane table.summary th {
+	background: #e7effd;
+	padding: 10px;
+}
+
+
+#page .pane .box, #page .pane .box2 {
+	font-size: 12px;
+	margin: 5px 0 0 20px;
+	overflow: hidden;
+	padding: 0 0 10px 0;
+	width: 660px;
+}
+#page .pane .box {
+	background: #a5c0f2 url(../images/newimages/box.gif) no-repeat 0 100%;
+}
+#page .pane .box2 {
+	background: #b0d03f url(../images/newimages/box.gif) no-repeat 0 100%;
+}
+#page .pane .box h2, #page .pane .box2 h2 {
+	background: transparent url(../images/newimages/boxh2.gif) no-repeat 0 0;
+	font-size: 12px;
+	margin: 0;
+	padding: 10px 10px 0 10px;
+}
+#page .pane .box h2 a, #page .pane .box2 h2 a {
+	text-decoration: none;
+}
+#page .pane .box p.boxtime, #page .pane .box2 p.boxtime {
+	background: transparent url(../images/newimages/boxtime.gif) no-repeat 10px 50%;
+	color: #fff;
+	float: left;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 25px;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 45px;
+	width: 155px;
+}
+#page .pane .box p.boxprice, #page .pane .box2 p.boxprice {
+	float: left;
+	line-height: 25px;
+	margin: 10px 0 0 0;
+	text-align: right;
+	width: 200px;
+}
+#page .pane .boxside {
+	float: right;
+	margin: 10px 0 0 30px;
+	width: 220px;
+}
+#page .pane .boxside div {
+	overflow: hidden;
+	width: 200px;
+}
+#page .pane .boxside input {
+	float: left;
+	height: 15px;
+	margin: 0 10px 0 0;
+	overflow: hidden;
+	width: 15px;
+}
+#page .pane .section {
+	background: #ccc url(../images/newimages/section.gif) no-repeat 0 100%;
+	margin: 20px 0 0 20px;
+	overflow: hidden;
+	padding: 0 0 10px 0;
+	width: 660px;
+}
+#page .pane .section h2 {
+	background: transparent url(../images/newimages/sectionh2.gif) no-repeat 0 0;
+	margin: 0;
+	padding: 10px 10px 0 10px;
+}
+
+
+#page .pane form {
+	margin: 0;
+	padding: 0;
+}
+#page .pane .field {
+	margin: 10px 0 0 0;
+	overflow: hidden;
+	width: 660px;
+}
+#page .pane .field label {
+	float: left;
+	line-height: 20px;
+	margin: 0 10px 0 0;
+	text-align: right;
+	width: 185px;
+}
+#page .pane .field input {
+	float: left;
+	font-family: arial, helvetica, serif;
+	font-size: 14px;
+	margin: 0 10px 0 0;
+	width: 265px;
+}
+#page .pane .field select {
+	float: left;
+	font-family: arial, helvetica, serif;
+	font-size: 14px;
+	margin: 0 10px 0 0;
+	width: 270px;
+}
+#page .pane .field textarea {
+	float: left;
+	font-family: arial, helvetica, serif;
+	font-size: 14px;
+	height: 60px;
+	width: 440px;
+}
+#page .pane .button {
+	margin: 20px 0 0 50px;
+	text-align: center;
+	overflow: hidden;
+	width: 610px;
+}
+#page .pane .button input {
+	border: 0;
+	cursor: pointer;
+	margin: 0 10px 0 0;
+}
+#page .pane .strip {
+	margin: 20px 0 0 0;
+	overflow: hidden;
+	width: 700px;
+}
+#page .pane .strip label {
+	float: left;
+	font-weight: bold;
+	line-height: 20px;
+	margin: 1px 10px 0 0;
+	text-align: right;
+	width: 415px;
+}
+#page .pane .strip select {
+	float: left;
+	font-family: arial, helvetica, serif;
+	font-size: 12px;
+	margin: 1px 20px 0 0;
+	width: 60px;
+}
+#page .pane .strip input {
+	border: 0;
+	cursor: pointer;
+	margin: 0;
+}
+
+#page #info .pane {
+	margin: 20px 0 0 0;
+}
+#page #info {
+	margin: 0;
+	width: 700px;
+}
+#page #info .pane h2 {
+	color: #6393e8;
+	font-size: 15px;
+	margin: 20px 20px 0 20px;
+}
+#page #info .pane ul {
+	list-style-type: none;
+	margin: 20px 20px 0 20px;
+	padding: 0;
+}
+#page #info .pane ul li {
+	cursor: pointer;
+	display: block;
+	list-style-type: none;
+	margin: 20px 0 0 0;
+	padding: 0;
+	width: 660px;
+}
+#page #info .pane h3 {
+	background: transparent url(../images/newimages/infoh3.gif) no-repeat 0 0;
+	display: block;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0 0 0 25px;
+	width: 635px;
+}
+#page #info .infodiv {
+	display: block;
+	margin: 0;
+	overflow: hidden;
+	width: 660px;
+}
+#page #info .pane p {
+	font-size: 12px;
+	margin: 20px 20px 0 20px;
+}
