@@ -39,7 +39,7 @@
                 Central Park West & 79th St.<br />
                 New York, NY, 10024<br />
                 <%=EventDetails.EventDay %>, <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %>, <%=EventDetails.EventYear %><br />
-                6pm Cocktails | 7PM-10PM Dinner</h1>
+                Starting at 6:00 PM</h1>
             <br />
             <p>For more information on the Women's Bond Club or the Merit Award Dinner, please <a href="https://womensbondclub.com" target="_blank">click here</a></p>
 
