@@ -278,8 +278,8 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             //{
             //    objMailMesg.Bcc.Add(new MailAddress(email));
             //}
-            objMailMesg.Bcc.Add(new MailAddress("SEQconfirm@gmail.com"));
-            //objMailMesg.Bcc.Add(new MailAddress("orikleinnyc@gmail.com"));
+            //objMailMesg.Bcc.Add(new MailAddress("SEQconfirm@gmail.com"));
+            objMailMesg.Bcc.Add(new MailAddress("orikleinnyc@gmail.com"));
             if (Session["ContriEmail"] != null)
                 objMailMesg.To.Add(Session["ContriEmail"].ToString());
 
