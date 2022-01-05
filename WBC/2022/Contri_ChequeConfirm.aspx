@@ -27,10 +27,10 @@
                     <h3>Event Details</h3>
                     <hr class="style-two">
                     <p class="large">
-                        <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %> <%=EventDetails.EventYear %><br />
+                        <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %>, <%=EventDetails.EventYear %><br />
                         Starting at 6:00 PM
                         <br />
-                        Business Attire<br />
+                        Business Formal<br />
                         American Museum of Natural History<br />
                         Central Park West & 79th St.<br />
                         New York, NY 10024
