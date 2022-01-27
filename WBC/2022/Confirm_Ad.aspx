@@ -26,7 +26,7 @@
                         6pm-10pm
                         <br />
                         American Museum of Natural History<br />
-                        Central Park West & 79th St<br />
+                        Central Park West at 79th St<br />
                         New York, NY 10024
                     </p>
                     <p>You will receive an email from XXX to collect your payment information.  </p>
@@ -38,7 +38,7 @@
                     <p>The ad and logo specs are as follows:</p>
 
                     <ul>
-                        <li>Dimensions of the ad should be 7” W x 5” H</li>
+                        <li>Dimensions of the ad should be 7ï¿½ W x 5ï¿½ H</li>
                         <li>All ads should be black & white/grayscale</li>
                         <li>Accepted file formats are: Illustrator EPS (convert text to outline), High-resolution TIFFs (300 dpi or greater), or PDFs (X-1A).</li>
                         <li>Corporate logo in color as a high-resolution TIFF, JPEG, or EPS.</li>

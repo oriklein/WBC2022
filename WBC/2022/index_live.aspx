@@ -36,7 +36,7 @@
     Online Commitment Form<br /></font>
     <hr class="style-two">
             American Museum of Natural History<br />
-             Central Park West & 79th St.<br />
+             Central Park West at 79th St.<br />
             New York, NY, 10024<br />
 Tuesday, May 2, 2017<br />6pm Cocktails | 7pm Dinner</h1><br />
 <p>For more information on the Women’s Bond Club or the Merit Award Dinner, please <a href="http://womensbondclub.com/events/annual-awards/" target="_blank">click here</a></p>

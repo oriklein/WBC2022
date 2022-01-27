@@ -36,7 +36,7 @@
     Online Commitment Form<br /></font>
                 <hr class="style-two">
                 American Museum of Natural History<br />
-                Central Park West & 79th St.<br />
+                Central Park West at 79th St.<br />
                 New York, NY, 10024<br />
                 <%=EventDetails.EventDay %>, <%=EventDetails.EventMonth %> <%=EventDetails.EventDate %>, <%=EventDetails.EventYear %><br />
                 Starting at 6:00 PM</h1>

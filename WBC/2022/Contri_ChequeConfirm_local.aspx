@@ -32,7 +32,7 @@
                         <br />
                         Business Attire<br />
                         American Museum of Natural History<br />
-                        Central Park West & 79th St.<br />
+                        Central Park West at 79th St.<br />
                         New York, NY 10024
                     </p>
 

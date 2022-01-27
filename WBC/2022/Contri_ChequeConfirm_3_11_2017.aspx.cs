@@ -325,7 +325,7 @@ public partial class Contri_ChequeConfirm : System.Web.UI.Page
             html = html + "Event Details";
             html = html + "</h2>";
             html = html + "<p style=\"font-size: 12px;    line-height: 1.5em;    margin: 10px 0 0;\">";
-            html = html + "May 2nd, 2017<br />6:00pm Cocktails | 7:00pm Dinner<br /><br />Business Attire<br />American Museum of Natural History<br /> Central Park West & 79th St.<br />New York, NY, 10024";
+            html = html + "May 2nd, 2017<br />6:00pm Cocktails | 7:00pm Dinner<br /><br />Business Attire<br />American Museum of Natural History<br /> Central Park West at 79th St.<br />New York, NY, 10024";
             html = html + "</p>";
             if (mb.MemberType == "Yes")
             {
